@@ -8,7 +8,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "3.5.0",
+    "nuxt": "latest",
     "sass": "^1.62.1",
     "sass-loader": "^13.2.2"
   },
@@ -17,9 +17,7 @@
     "bootstrap": "^5.2.3",
     "swiper": "^8.4.5"
   },
-"engines": {
-  "node": "18"
-}
-
-
+  "engines": {
+    "node": "24.x"
+  }
 }
