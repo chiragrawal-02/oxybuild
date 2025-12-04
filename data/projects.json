@@ -1,0 +1,74 @@
+[
+    {
+        "id": 101,
+        "imgSrc": "/images/project/medium-size/2-1-370x540.jpg",
+        "category": "Construction",
+        "title": "Calton Bridge",
+        "slug": "calton-bridge-101",
+        "duration": "25 month"
+    },
+    {
+        "id": 102,
+        "imgSrc": "/images/project/medium-size/2-2-370x540.jpg",
+        "category": "Architecture",
+        "title": "Zelixe de Villa",
+        "slug": "zelixe-de-villa-102",
+        "duration": "29 month"
+    },
+    {
+        "id": 103,
+        "imgSrc": "/images/project/medium-size/2-3-370x540.jpg",
+        "category": "Construction",
+        "title": "Midland Highway",
+        "slug": "midland-highway-103",
+        "duration": "22 month"
+    },
+    {
+        "id": 104,
+        "imgSrc": "/images/project/medium-size/2-4-370x540.jpg",
+        "category": "Renovation",
+        "title": "Duplex House",
+        "slug": "duplex-house-104",
+        "duration": "18 month"
+    },
+    {
+        "id": 105,
+        "imgSrc": "/images/project/medium-size/2-5-370x540.jpg",
+        "category": "Construction",
+        "title": "Railway Tunnel",
+        "slug": "railway-tunnel-105",
+        "duration": "12 month"
+    },
+    {
+        "id": 106,
+        "imgSrc": "/images/project/medium-size/2-6-370x540.jpg",
+        "category": "Architecture",
+        "title": "Pink Garden",
+        "slug": "pink-garden-106",
+        "duration": "30 month"
+    },
+    {
+        "id": 107,
+        "imgSrc": "/images/project/medium-size/2-7-370x540.jpg",
+        "category": "Renovation",
+        "title": "Parle Palace",
+        "slug": "parle-palace-107",
+        "duration": "18 month"
+    },
+    {
+        "id": 108,
+        "imgSrc": "/images/project/medium-size/2-8-370x540.jpg",
+        "category": "Construction",
+        "title": "Overpass Road",
+        "slug": "overpass-road-108",
+        "duration": "12 month"
+    },
+    {
+        "id": 109,
+        "imgSrc": "/images/project/medium-size/2-9-370x540.jpg",
+        "category": "Architecture",
+        "title": "Duplex House",
+        "slug": "duplex-house-109",
+        "duration": "30 month"
+    }
+]

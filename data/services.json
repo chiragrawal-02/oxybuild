@@ -1,0 +1,38 @@
+[
+    {
+        "id": 101,
+        "title": "Construction",
+        "slug": "construction-101",
+        "imgSrc": "/images/service/medium-size/1-1-371x254.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Renovation",
+        "slug": "Renovation-102",
+        "imgSrc": "/images/service/medium-size/1-2-371x254.jpg"
+    },
+    {
+        "id": 103,
+        "title": "Architecture",
+        "slug": "architecture-103",
+        "imgSrc": "/images/service/medium-size/1-3-371x254.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Concrete Supply",
+        "slug": "concrete-supply-104",
+        "imgSrc": "/images/service/medium-size/1-4-370x254.jpg"
+    },
+    {
+        "id": 105,
+        "title": "Laminate Flooring",
+        "slug": "laminate-flooring-105",
+        "imgSrc": "/images/service/medium-size/1-5-370x254.jpg"
+    },
+    {
+        "id": 106,
+        "title": "Project Planning",
+        "slug": "project-planning-106",
+        "imgSrc": "/images/service/medium-size/1-6-370x254.jpg"
+    }
+]

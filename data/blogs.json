@@ -1,0 +1,110 @@
+[
+    {
+        "id": 101,
+        "imgSrc": "/images/blog/medium-size/1-1-370x260.jpg",
+        "title": "Construction Technology",
+        "slug": "construction-technology",
+        "author": "smith",
+        "date": "25 Aug, 2023",
+        "category": "construction",
+        "comment": 27,
+        "excerpt": "Construction of itself, because it is pain because some proper style design",
+        "tags": ["construction", "renovation", "architecture"]
+    },
+    {
+        "id": 102,
+        "imgSrc": "/images/blog/medium-size/1-2-370x260.jpg",
+        "title": "Building Technology",
+        "slug": "building-technology",
+        "author": "david",
+        "date": "18 Jun, 2023",
+        "category": "building",
+        "comment": 15,
+        "excerpt": "Construction of itself, because it is pain because some proper style design",
+        "tags": ["construction", "renovation", "planning"]
+    },
+    {
+        "id": 103,
+        "imgSrc": "/images/blog/medium-size/1-3-370x260.jpg",
+        "title": "Heavy Weight Technology",
+        "slug": "heavy-weight-technology",
+        "author": "ethan",
+        "date": "25 Mar, 2023",
+        "category": "construction",
+        "comment": 25,
+        "excerpt": "Construction of itself, because it is pain because some proper style design",
+        "tags": ["construction", "planning"]
+    },
+    {
+        "id": 104,
+        "imgSrc": "/images/blog/medium-size/1-4-370x260.jpg",
+        "title": "Building Technology",
+        "slug": "building-technology-02",
+        "author": "smith",
+        "date": "29 Sep, 2023",
+        "category": "construction",
+        "comment": 15,
+        "excerpt": "Construction of itself, because it is pain because some proper style design",
+        "tags": ["construction", "renovation"]
+    },
+    {
+        "id": 105,
+        "imgSrc": "/images/blog/medium-size/1-5-370x260.jpg",
+        "title": "Heavy Weight Technology",
+        "slug": "heavy-weight-technology-02",
+        "author": "david",
+        "date": "23 May, 2023",
+        "category": "consultancy",
+        "comment": 30,
+        "excerpt": "Construction of itself, because it is pain because some proper style design",
+        "tags": ["interior", "concrete", "consultancy"]
+    },
+    {
+        "id": 106,
+        "imgSrc": "/images/blog/medium-size/1-6-370x260.jpg",
+        "title": "Construction Technology",
+        "slug": "construction-technology-03",
+        "author": "ethan",
+        "date": "25 Feb, 2023",
+        "category": "renovation",
+        "comment": 45,
+        "excerpt": "Construction of itself, because it is pain because some proper style design",
+        "tags": ["concrete", "renovation"]
+    },
+    {
+        "id": 107,
+        "imgSrc": "/images/blog/medium-size/1-7-370x260.jpg",
+        "title": "Construction Technology",
+        "slug": "construction-technology-03",
+        "author": "smith",
+        "date": "29 Sep, 2023",
+        "category": "interior",
+        "comment": 54,
+        "excerpt": "Construction of itself, because it is pain because some proper style design",
+        "tags": ["construction", "interior"]
+    },
+    {
+        "id": 108,
+        "imgSrc": "/images/blog/medium-size/1-8-370x260.jpg",
+        "title": "Building Technology",
+        "slug": "building-technology-03",
+        "author": "david",
+        "date": "23 May, 2023",
+        "category": "planning",
+        "comment": 25,
+        "excerpt": "Construction of itself, because it is pain because some proper style design",
+        "tags": ["planning", "consultancy"]
+    },
+    {
+        "id": 109,
+        "imgSrc": "/images/blog/medium-size/1-9-370x260.jpg",
+        "title": "Heavy Weight Technology",
+        "slug": "heavy-weight-technology-03",
+        "author": "ethan",
+        "date": "25 Feb, 2023",
+        "category": "construction",
+        "comment": 85,
+        "excerpt": "Construction of itself, because it is pain because some proper style design",
+        "tags": ["renovation", "concrete", "planning"]
+    }
+]
